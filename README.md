@@ -57,19 +57,19 @@ endmodule
 ```
 # Output:
 ## Truthtable:
-### HALF ADDER:
+### HALF SUBTRACTOR:
 ![Screenshot 2023-09-14 184821](https://github.com/AnandhamoorthyKarthikeyan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475998/c8414ea6-2764-4f5e-a62a-97b7bb6209ec)
-### FULL ADDER:
+### FULL SUBTRACTOR:
 ![Screenshot 2023-09-14 184833](https://github.com/AnandhamoorthyKarthikeyan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475998/8da165a6-cb31-4552-a410-bbde501a2e5d)
 ##  RTL realization:
-### HALF ADDER:
+### HALF SUBTRACTOR:
 ![Screenshot 2023-09-14 184803](https://github.com/AnandhamoorthyKarthikeyan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475998/3c74eb15-5af1-48d0-a1ed-f68c04398792)
-### FULL ADDER:
+### FULL SUBTRACTOR:
 ![Screenshot 2023-09-14 184752](https://github.com/AnandhamoorthyKarthikeyan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475998/831ae814-b9d5-4f20-804b-854106f55dd5)
 ## OUTPUT WAVEFORM:
-### HALF ADDER:
+### HALF SUBTRACTOR:
 ![Screenshot 2023-09-14 184741](https://github.com/AnandhamoorthyKarthikeyan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475998/eb9e4308-cf3e-4301-a577-dba88c213c44)
-### FULL ADDER:
+### FULL SUBTRACTOR:
 ![Screenshot 2023-09-14 184730](https://github.com/AnandhamoorthyKarthikeyan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475998/658d315d-0215-4fad-adf9-f07b6105dea3)
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
